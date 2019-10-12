@@ -18,6 +18,9 @@ setup(
     include_package_data=True,
     install_requires=[
         "setuptools",
+        "click",
+        "black",
+        "flake8",
     ],
     entry_points="""
         [console_scripts]
