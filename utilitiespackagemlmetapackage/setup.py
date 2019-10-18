@@ -22,6 +22,7 @@ setup(
         "black",
         "flake8",
         "tensorflow",
+        "chainer",
     ],
     entry_points="""
         [console_scripts]
