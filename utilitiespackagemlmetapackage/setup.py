@@ -21,6 +21,7 @@ setup(
         "click",
         "black",
         "flake8",
+        "tensorflow",
     ],
     entry_points="""
         [console_scripts]
