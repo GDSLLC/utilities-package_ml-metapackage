@@ -22,6 +22,7 @@ setup(
         "black",
         "flake8",
         "tensorflow",
+        "torch",
     ],
     entry_points="""
         [console_scripts]
