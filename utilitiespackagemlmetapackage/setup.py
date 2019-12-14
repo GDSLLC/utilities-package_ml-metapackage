@@ -23,6 +23,7 @@ setup(
         "flake8",
         "tensorflow",
         "chainer",
+        "torch",
     ],
     entry_points="""
         [console_scripts]
